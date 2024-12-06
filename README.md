@@ -82,12 +82,17 @@ it to this repository.
 
 Insertion, search, and deletion running time (already sorted):
 
-![Firefly picture of a cat 86147](https://github.com/user-attachments/assets/8b2d008e-3011-4979-97b8-fa2e9886a01a)
+<img width="540" alt="Proj4Sorted" src="https://github.com/user-attachments/assets/30e3e01c-d57d-473c-b55c-a511a6048650">
 
 
 Insertion, search, and deletion running time (shuffled):
 
+<img width="541" alt="Proj4Shuffled" src="https://github.com/user-attachments/assets/442f1857-94c9-48b2-a38b-63a20318539c">
+
+
 Insertion, search, and deletion running time (reversed):
+
+<img width="534" alt="Proj4Reversed" src="https://github.com/user-attachments/assets/65e6e387-b3e2-4c7f-812f-9fdb60fc8345">
 
 ## 5. **Document your Dataset and Results**
 Document the source of your dataset and any modifications you made to it. Describe the results of your analysis and 
